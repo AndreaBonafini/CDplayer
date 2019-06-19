@@ -1,4 +1,8 @@
-﻿using System;
+/*Andrea Bonafini
+June 16,2019
+Simulation of the old CD player symbol
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
